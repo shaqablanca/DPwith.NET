@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2gnmIuD70rEnP+t3Ec2Dhl41127ld7iVXnN7KgU68lL3RlzyNZvT+zlKuv7BTmQ48Q5Sz+WR05+uxo6a3V6Ow==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/Projects/DPwith.NET/DPatternsNET/DP_MediatR/DP_MediatR.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
